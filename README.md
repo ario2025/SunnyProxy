@@ -1,7 +1,7 @@
 # SunnyProxy
 
 SunnyProxy is a first minimalist proxy-like servlet to serve all requests where commonly blocked for some
-reason in common circunstances.
+reason in common circumstances.
 
 Weblogic
 --------
