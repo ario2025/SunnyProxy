@@ -5,12 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.aristotelesmachado</groupId>
     <artifactId>SunnyProxy</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
     <name>SunnyProxy</name>
+
     <properties>
         <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -19,7 +21,9 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
     <build>
-        <finalName>${project.name}</finalName>
+        <finalName>SunnyProxy</finalName>
     </build>
+
 </project>
