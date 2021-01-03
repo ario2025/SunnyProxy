@@ -1,7 +1,6 @@
 # SunnyProxy
 
-SunnyProxy is a first minimalist proxy-like servlet to serve all requests where commonly blocked for some
-reason in common circumstances.
+SunnyProxy is a Java based proxy reverse minimalist "proxy-like" servlet to serve all requests where commonly blocked for some reason in common circumstances to work on focus in Oracle Weblogic Server.
 
 
 Weblogic 10.3.6
